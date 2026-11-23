@@ -1,0 +1,8 @@
+Python Developer Intern
+
+We are looking for a student developer with a foundation in Python programming,
+data handling and software development. The role involves writing readable Python
+code, working with APIs, processing structured data, debugging applications and
+collaborating on small projects. Familiarity with SQL, Pandas, NumPy, Git,
+Scikit-learn, REST APIs and data visualization is useful. Candidates should be
+able to explain their projects and demonstrate problem-solving skills.
