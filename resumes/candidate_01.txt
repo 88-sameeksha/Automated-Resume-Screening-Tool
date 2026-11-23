@@ -1,0 +1,7 @@
+Aarav Sharma
+Email: aarav@example.test
+Summary: Student Python developer interested in data analysis and automation.
+Skills: Python, SQL, Pandas, NumPy, Git, REST API, Data Visualization.
+Projects: Built a Python expense tracker using Pandas and CSV files. Created a
+REST API practice application and used Git for version control.
+Education: BTech Computer Science. Coursework includes programming and databases.

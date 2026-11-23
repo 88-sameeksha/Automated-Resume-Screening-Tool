@@ -1,0 +1,6 @@
+Riya Verma
+Email: riya@example.test
+Summary: Frontend development learner.
+Skills: HTML, CSS, JavaScript, React, responsive design, Git.
+Projects: Created a responsive portfolio website and a small React interface.
+Education: Undergraduate computer science student.

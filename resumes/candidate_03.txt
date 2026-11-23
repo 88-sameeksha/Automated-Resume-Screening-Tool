@@ -1,0 +1,7 @@
+Kabir Singh
+Email: kabir@example.test
+Summary: Python and machine learning student.
+Skills: Python, SQL, Pandas, Scikit-learn, NumPy, Data Visualization.
+Projects: Developed a student performance analysis project with Pandas and
+visualizations. Built a basic classification model using Scikit-learn.
+Education: BTech Computer Science. Familiar with Git and debugging.
